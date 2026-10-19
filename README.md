@@ -7,6 +7,13 @@ Download the .bat file them uncheck ask when you open the
 # How to run in linux.
 Download the .sh and them run in terminal:
 ```bash
-chmod +x wifi-watchdog.sh
-sudo ./wifi-watchdog.sh
-
+chmod +x ping-checker-linux.sh
+sudo ./ping-checker-linux.sh
+```
+# How to run in MacOS.
+Same thing in Linux but in Mac.
+```bash
+chmod +x ping-checker-macos.sh
+sudo ./ping-checker-macos.sh
+```
+Thats it!
