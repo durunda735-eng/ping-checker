@@ -4,16 +4,9 @@ There are 3 versions for each OS!
 # How to run in windows.
 Download the .bat file them uncheck ask when you open the
 .bat file  again.
-# How to run in linux.
+# How to run in linux and Mac.
 Download the .sh and them run in terminal:
 ```bash
-chmod +x ping-checker-linux.sh
-sudo ./ping-checker-linux.sh
+chmod +x ping-checker-mac&linux.2.0.sh
+sudo ./ping-checker-mac&linux.2.0.sh
 ```
-# How to run in MacOS.
-Same thing in Linux but in Mac.
-```bash
-chmod +x ping-checker-macos.sh
-sudo ./ping-checker-macos.sh
-```
-Thats it!
