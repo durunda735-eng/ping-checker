@@ -3,7 +3,7 @@ This repository will let you check your ping in Windows and Linux using google.c
 
 ## Shout-out to GameVox
 
-![GameVox logo](assets/gamevox-logo.png)
+![GameVox logo](assets/logo.svg)
 
 Big shout-out to Ben and the GameVox team for building GameVox. I’m friends with Ben and wanted to show my appreciation for his work.
 
