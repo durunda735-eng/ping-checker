@@ -11,7 +11,6 @@ did help him Fix the API Proxy. Thanks.
 [Check out GameVox](https://gamevox.com/)
 
 
-There are 3 versions for each OS!
 # How to run in windows.
 Download the .bat file them uncheck ask when you open the
 .bat file  again.
