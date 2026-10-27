@@ -3,6 +3,7 @@ Information from Jetty.
 >These scripts will reset your adapter if you loose internet.<br>
 3 scripts to choose from.<br>
 **Windows — Linux — MacOS**
+I dont know if it will work on some distro's. -Nikita
 <br><br>
 
 ## Shout-out to GameVox
