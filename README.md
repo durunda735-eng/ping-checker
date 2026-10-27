@@ -23,7 +23,7 @@ I wanted to show my appreciation for Ben's his work. <br>
 <br>
 
 ### <u>1. Download the file of your choice</u>
-| Operatingsystem |   | Script                         |
+| Operating system |   | Script                         |
 |-----------------|---|--------------------------------|
 | For Windows     |   | ```ping-checker-windows.bat``` |
 | For Linux       |   | ```ping-checker-linux.sh```    |
