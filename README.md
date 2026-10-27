@@ -10,10 +10,8 @@ Information
 
 
 ![GameVox logo](assets/logo.svg)
-
 Big shout-out to Ben, and the GameVox community for building GameVox. <br>
 I wanted to show my appreciation for Ben's his work. <br>
-
 ### [Check out GameVox](https://gamevox.com/)
 <br>
 <br>
