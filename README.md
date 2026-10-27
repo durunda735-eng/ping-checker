@@ -44,10 +44,10 @@ Replace "download-location" with your downloads folder.
 Cd "download-location"
 ```
 ```bash
-chmod +x ping-checker-mac&linux.2.0.sh
+chmod +x ping-checker-linux.sh
 ```
 ```bash 
-sudo ./ping-checker-mac&linux.2.0.sh
+sudo ./ping-checker-linux.sh
 ```
 <br>
 
@@ -57,9 +57,9 @@ Replace "download-location" with your downloads folder.
 Cd "download-location"
 ```
 ```bash
-chmod +x ping-checker-mac&linux.2.0.sh
+chmod +x ping-checker-mac.sh
 ```
 ```bash 
-sudo ./ping-checker-mac&linux.2.0.sh
+sudo ./ping-checker-macos.sh
 ```
 
