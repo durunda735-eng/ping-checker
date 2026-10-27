@@ -1,5 +1,9 @@
 # ping-checker
-This repository will let you check your ping in Windows and Linux using google.com's domain.
+Information
+>These scripts will reset your adapter if you loose internet.<br>
+3 scripts to choose from.<br>
+**Windows — Linux — MacOS**
+<br><br>
 
 ## Shout-out to GameVox
 
@@ -9,18 +13,53 @@ This repository will let you check your ping in Windows and Linux using google.c
 
 
 
-Big shout-out to Ben and the GameVox community for building GameVox. I’m friends with Ben and wanted to show my appreciation for his work. i
-did help him Fix the API Proxy. Thanks.
+Big shout-out to Ben, and the GameVox community for building GameVox. <br>
+I wanted to show my appreciation for Ben's his work. <br>
 
-[Check out GameVox](https://gamevox.com/)
+### [Check out GameVox](https://gamevox.com/)
+<br>
+<br>
+<br>
+
+# How to use Ping Checker
+<br>
+
+### <u>1. Download the file of your choice</u>
+| Operatingsystem |   | Script                         |
+|-----------------|---|--------------------------------|
+| For Windows     |   | ```ping-checker-windows.bat``` |
+| For Linux       |   | ```ping-checker-linux.sh```    |
+| MacOS           |   | ```ping-checker-macos.sh```    |
+<br>
 
 
-# How to run in windows.
-Download the .bat file them uncheck ask when you open the
-.bat file  again.
-# How to run in linux and Mac.
-Download the .sh and them run in terminal:
+### 2. <u>Run the script</u>
+
+**Windows:**<br>
+Right click `ping-checker-windows.bat` and choose <u>**run as admin**</u>. 
+
+<br>
+
+**Linux:**<br>
+```bash
+Cd "download-location"
+```
 ```bash
 chmod +x ping-checker-mac&linux.2.0.sh
+```
+```bash 
 sudo ./ping-checker-mac&linux.2.0.sh
 ```
+<br>
+
+**MacOS:**<br>
+```bash
+Cd "download-location"
+```
+```bash
+chmod +x ping-checker-mac&linux.2.0.sh
+```
+```bash 
+sudo ./ping-checker-mac&linux.2.0.sh
+```
+
