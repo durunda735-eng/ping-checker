@@ -39,6 +39,7 @@ Right click `ping-checker-windows.bat` and choose <u>**run as admin**</u>.
 <br>
 
 **Linux:**<br>
+Replace "download-location" with your downloads folder.
 ```bash
 Cd "download-location"
 ```
@@ -51,6 +52,7 @@ sudo ./ping-checker-mac&linux.2.0.sh
 <br>
 
 **MacOS:**<br>
+Replace "download-location" with your downloads folder.
 ```bash
 Cd "download-location"
 ```
