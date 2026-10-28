@@ -64,6 +64,6 @@ sudo ./ping-checker-macos.sh
 ```
 
 # Respected employes.
-Anvnamnet
+Anvnamnet. (Retired)
 
 Thats all. =)
