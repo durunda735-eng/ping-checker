@@ -63,3 +63,7 @@ chmod +x ping-checker-mac.sh
 sudo ./ping-checker-macos.sh
 ```
 
+# Respected employes.
+Anvnamnet
+
+Thats all. =)
