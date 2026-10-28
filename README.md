@@ -43,6 +43,9 @@ Replace "download-location" with your downloads folder.
 ```bash
 Cd "download-location"
 ```
+```bash
+chmod +x ping-checker-linux.sh
+```
 ```bash 
 sudo ./ping-checker-linux.sh
 ```
@@ -52,6 +55,9 @@ sudo ./ping-checker-linux.sh
 Replace "download-location" with your downloads folder.
 ```bash
 Cd "download-location"
+```
+```bash
+chmod +x ping-checker-mac.sh
 ```
 ```bash 
 sudo ./ping-checker-macos.sh
